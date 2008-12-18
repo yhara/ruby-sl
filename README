@@ -1,0 +1,20 @@
+= ruby-sl : A tiny library to run SLs in your terminal
+
+== Example
+
+  require 'sl'
+  SL.run!
+
+== Install
+
+(TODO)
+
+== Acknowledgements
+
+ruby-sl is inspired by sl(1) command.
+* http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/ (Japanese)
+
+== Contact
+
+yhara (Yutaka HARA) : yhara(at)kmc.gr.jp
+http://route477.net/
