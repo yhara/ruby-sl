@@ -7,7 +7,8 @@
 
 == Install
 
-(TODO)
+  $ gem sources -a http://gems.github.com
+  $ gem install ruby-sl
 
 == Acknowledgements
 
