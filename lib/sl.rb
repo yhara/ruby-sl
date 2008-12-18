@@ -2,7 +2,7 @@ require 'curses'
 
 module SL
 
-  VERSION = "0.1"
+  VERSION = "0.11"
 
   def self.run!
     init
